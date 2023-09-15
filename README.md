@@ -8,6 +8,10 @@
 # Multiple html lines
 <img width="868" alt="writing multiple html lines" src="https://github.com/nasrin1748/jupyter_tabextension/assets/79505893/787e0bd2-ddaf-4170-bcc8-aa0e2943c467">
 
+# Button Click for tab
+<img width="809" alt="Tabwidget-button click" src="https://github.com/nasrin1748/jupyter_tabextension/assets/79505893/438031f3-a1c9-4102-9438-b69f50229213">
+
+
 
 
 
