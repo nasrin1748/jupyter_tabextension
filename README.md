@@ -5,6 +5,10 @@
 # Getting refs
 <img width="710" alt="ipwidgets" src="https://github.com/nasrin1748/jupyter_tabextension/assets/79505893/27967e79-b420-4064-88ac-9d02eb0e3ed4">
 
+# Multiple html lines
+<img width="868" alt="writing multiple html lines" src="https://github.com/nasrin1748/jupyter_tabextension/assets/79505893/787e0bd2-ddaf-4170-bcc8-aa0e2943c467">
+
+
 
 
 
