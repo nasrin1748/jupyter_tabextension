@@ -11,6 +11,8 @@
 # Button Click for tab
 <img width="809" alt="Tabwidget-button click" src="https://github.com/nasrin1748/jupyter_tabextension/assets/79505893/438031f3-a1c9-4102-9438-b69f50229213">
 
+# adding two numbers
+<img width="754" alt="addition" src="https://github.com/nasrin1748/jupyter_tabextension/assets/79505893/57c69b85-0cdf-4f5f-871f-ee6f797c4c82">
 
 
 
