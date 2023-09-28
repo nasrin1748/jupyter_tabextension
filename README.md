@@ -14,6 +14,8 @@
 # adding two numbers
 <img width="754" alt="addition" src="https://github.com/nasrin1748/jupyter_tabextension/assets/79505893/57c69b85-0cdf-4f5f-871f-ee6f797c4c82">
 <img width="411" alt="addition1" src="https://github.com/nasrin1748/jupyter_tabextension/assets/79505893/7830d7ad-f8d7-4ac8-8940-b2a13c4b824e">
+<img width="469" alt="addition2" src="https://github.com/nasrin1748/jupyter_tabextension/assets/79505893/3cf6ed7e-8da2-4399-bdeb-f762e3f49427">
+
 
 
 
