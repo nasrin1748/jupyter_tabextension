@@ -17,6 +17,8 @@
 <img width="469" alt="addition2" src="https://github.com/nasrin1748/jupyter_tabextension/assets/79505893/3cf6ed7e-8da2-4399-bdeb-f762e3f49427">
 <img width="726" alt="addition3" src="https://github.com/nasrin1748/jupyter_tabextension/assets/79505893/02609fea-6a2a-4038-901f-cec53483a19a">
 
+# using javascript textbox
+<img width="925" alt="10" src="https://github.com/nasrin1748/jupyter_tabextension/assets/79505893/d26f1e0c-cb67-49c9-ab78-d729c7d620b2">
 
 
 
