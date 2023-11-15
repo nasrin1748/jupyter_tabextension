@@ -21,6 +21,8 @@
 <img width="925" alt="10" src="https://github.com/nasrin1748/jupyter_tabextension/assets/79505893/d26f1e0c-cb67-49c9-ab78-d729c7d620b2">
 
 # sound buttons
+<img width="721" alt="sound" src="https://github.com/nasrin1748/jupyter_tabextension/assets/79505893/a9d57987-0875-48c4-b40b-1622aee59da2">
+
 
 
 
