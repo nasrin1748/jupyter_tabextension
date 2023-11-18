@@ -23,6 +23,10 @@
 # sound buttons
 <img width="721" alt="sound" src="https://github.com/nasrin1748/jupyter_tabextension/assets/79505893/a9d57987-0875-48c4-b40b-1622aee59da2">
 
+# textbox Example
+<img width="413" alt="nas" src="https://github.com/nasrin1748/jupyter_tabextension/assets/79505893/48b932a9-c801-4085-a158-4c69a93c5bba">
+
+
 
 
 
