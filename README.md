@@ -26,6 +26,10 @@
 # textbox Example
 <img width="413" alt="nas" src="https://github.com/nasrin1748/jupyter_tabextension/assets/79505893/48b932a9-c801-4085-a158-4c69a93c5bba">
 
+# multiple videos
+<img width="704" alt="nas123" src="https://github.com/nasrin1748/jupyter_tabextension/assets/79505893/b1f70b49-d81c-419c-824c-93ba66222c3a">
+
+
 
 
 
