@@ -29,6 +29,10 @@
 # multiple videos
 <img width="704" alt="nas123" src="https://github.com/nasrin1748/jupyter_tabextension/assets/79505893/b1f70b49-d81c-419c-824c-93ba66222c3a">
 
+# image
+<img width="658" alt="Image" src="https://github.com/nasrin1748/jupyter_tabextension/assets/79505893/cf2e6d55-ff6d-4d08-a4c9-ae22aa56bc9a">
+
+
 
 
 
